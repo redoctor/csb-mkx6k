@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://redoctor.github.io/csb-mkx6k/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://redoctor.github.io/csb-mkx6k/static/js/main.6095a0fe.chunk.js",
+    "main.js.map": "https://redoctor.github.io/csb-mkx6k/static/js/main.6095a0fe.chunk.js.map",
+    "runtime-main.js": "https://redoctor.github.io/csb-mkx6k/static/js/runtime-main.b380aeff.js",
+    "runtime-main.js.map": "https://redoctor.github.io/csb-mkx6k/static/js/runtime-main.b380aeff.js.map",
+    "static/js/2.5f837869.chunk.js": "https://redoctor.github.io/csb-mkx6k/static/js/2.5f837869.chunk.js",
+    "static/js/2.5f837869.chunk.js.map": "https://redoctor.github.io/csb-mkx6k/static/js/2.5f837869.chunk.js.map",
+    "index.html": "https://redoctor.github.io/csb-mkx6k/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://redoctor.github.io/csb-mkx6k/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.5f837869.chunk.js.LICENSE.txt": "https://redoctor.github.io/csb-mkx6k/static/js/2.5f837869.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b380aeff.js",
+    "static/js/2.5f837869.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.6095a0fe.chunk.js"
+  ]
+}
